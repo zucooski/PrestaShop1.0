@@ -1,0 +1,8 @@
+selenium
+pytest
+pytest-ordering
+pytest-dependency
+pytest-xdist
+pytest-html
+allure-pytest
+openpyxl
